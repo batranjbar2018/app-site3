@@ -1,0 +1,18 @@
+.header {
+    background-Color :whitesmoke;
+    border-radius:10px;
+}
+
+.header__menu{
+    display:inline;
+}
+.header__menuItem {
+    display: inline-block;
+    padding : 1rem;
+}
+.header__title{
+    display : inline-block;
+    float : right;
+    margin: 1 rem;
+}
+
